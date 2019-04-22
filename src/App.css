@@ -31,3 +31,86 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.div1{
+  width: 75%;
+  height : 50px;
+  background-color:rgb(27, 47, 224);
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-left:2%;
+
+
+}
+
+.ulmenu{
+  display: inline-block;
+  font-size: 20px;
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+}
+
+
+h1{
+  font-size: 30px;
+  display: inline;
+}
+
+.div2{
+  width: 75%;
+  height :12%;
+  background-color:grey;
+  padding:10px;
+
+}
+.div2categories{
+  width: 75%;
+  height :15%;
+  background-color:grey;
+  padding:10px;
+  margin-left: 30px;
+  display: inline-block;
+  margin-bottom: 2%
+
+}
+.div3categories{
+  width: 75%;
+  height :10%;
+  background-color:grey;
+  padding:10px;
+  margin-left: 30px;
+  display:inline-block;
+  margin-bottom: 2%;
+
+}
+
+
+.div3{
+
+  background-color:orange;
+  margin-bottom: 2%;
+}
+
+h2{
+  font-size: 24px;
+  color:blue;
+  font-family: sans-serif;
+}
+
+.ulcomments{
+
+  font-size: 12px;
+
+}
+
+.licomments {
+  padding: 5px;
+}
+
